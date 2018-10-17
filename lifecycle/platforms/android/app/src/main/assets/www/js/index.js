@@ -15,6 +15,13 @@ function updateDisplay() {
 // device APIs are available
 //
     function onDeviceReady() {
+
+    var key = “macbook”;
+    var value = “green”;
+
+    window.localStorage.setItem( 'macbook', 'green' );
+
+    var value2 = window.localStorage.getItem(#keys);
 	
 	document.addEventListener("resume", onResume, false); //Creates event for alert message
 	document.addEventListener("pause", onPause, false); //Creates event for alert message
