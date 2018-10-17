@@ -1,0 +1,4 @@
+#Wed Oct 17 12:01:37 BST 2018
+base.0=/Users/john/Documents/GitHub/my-phonegap-lifecycle-test/lifecycle/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
