@@ -1,2 +1,5 @@
 
 lifestyle-ios/platforms/ios/HelloCordova.xcodeproj/project.xcworkspace/xcuserdata/john.xcuserdatad/UserInterfaceState.xcuserstate
+*.lock
+*.lock
+lifecycle/platforms/android/.idea/runConfigurations.xml
